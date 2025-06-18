@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark+",
-        "uiTheme": "hc-black",
-        "path": "./themes/Dark+-color-theme.json"
+        "label": "Theme_Oscurin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Theme_Oscurin-color-theme.json"
       }
     ]
   }

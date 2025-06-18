@@ -1,0 +1,138 @@
+{
+  "name": "Theme_Oscurin",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#000000",
+    "sideBar.background": "#000000",
+    "sideBar.foreground": "#ffffff",
+    "editor.selectionBackground": "#ffffff1e",
+    "editor.lineHighlightBackground": "#1a1a1a",
+    "editorCursor.foreground": "#ffffffae",
+    "editorWhitespace.foreground": "#3b3a32",
+
+    "panel.background": "#000000",
+    "activityBar.background": "#000000d7",
+    "titleBar.activeBackground": "#000000",
+    "statusBar.background": "#000000d7",
+    "editorGutter.background": "#000000",
+    "editorGroupHeader.tabsBackground": "#000000",
+    "tab.activeBackground": "#3737372b",
+    "tab.inactiveBackground": "#030303",
+
+    "sideBar.border": "#ffffff20",
+    "panel.border": "#ffffff3d",
+    "activityBar.border": "#ffffff3d",
+    "titleBar.border": "#ffffff3d",
+    "statusBar.border": "#ffffff3d",
+    "editorGroup.border": "#ffffff3d",
+    "editorGroupHeader.tabsBorder": "#ffffff3d"
+  }
+,
+  "tokenColors": [
+    {
+      "name": "Funciones",
+      "scope": [
+        "entity.name.function",
+        "entity.name.function.python",
+        "entity.name.function.js",
+        "entity.name.function.ts",
+        "entity.name.function.java",
+        "support.function",
+        "meta.function.python"
+      ],
+      "settings": {
+        "foreground": "#ffea00af"
+      }
+    },
+    {
+      "name": "Cadenas (strings)",
+      "scope": [
+        "string.quoted",
+        "string.template",
+        "string.quoted.double",
+        "string.quoted.single"
+      ],
+      "settings": {
+        "foreground": "#879ea9"
+      }
+    },
+
+    {
+      "name": "Palabras clave de control (if, else, for, while, switch...)",
+      "scope": [
+        "keyword.control",
+        "keyword.control.flow",
+        "keyword.control.conditional",
+        "keyword.control.loop",
+        "keyword.control.import",
+        "keyword.control.from"
+      ],
+      "settings": {
+        "foreground": "#9917bd"
+      }
+    },
+    {
+      "name": "Comentarios",
+      "scope": [
+        "comment",
+        "comment.block.documentation",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#4ffa0097",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Números",
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#b5cea8"
+      }
+    },
+    {
+      "name": "Constantes (null, undefined, NaN)",
+      "scope": [
+        "constant.language",
+        "support.constant",
+        "variable.language"
+      ],
+      "settings": {
+        "foreground": "#4a8b8f"
+      }
+    },
+    {
+      "name": "Operadores",
+      "scope": [
+        "keyword.operator",
+        "keyword.operator.assignment",
+        "keyword.operator.arithmetic",
+        "keyword.operator.logical"
+      ],
+      "settings": {
+        "foreground": "#d4d4d4"
+      }
+    },
+    {
+      "name": "Etiquetas HTML y JSX",
+      "scope": [
+        "entity.name.tag",
+        "meta.tag",
+        "support.class.component"
+      ],
+      "settings": {
+        "foreground": "#d16666"
+      }
+    },
+    {
+      "name": "Atributos HTML/CSS",
+      "scope": [
+        "entity.other.attribute-name",
+        "variable.other.attribute"
+      ],
+      "settings": {
+        "foreground": "#49b8f49c"
+      }
+    }
+  ]
+}
