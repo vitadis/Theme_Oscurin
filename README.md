@@ -1,16 +1,38 @@
-# MitemaPersonal README
+# Theme_Oscurin README
 
-## Working with Markdown
+¡Bienvenido al lado oscuro del código!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+**Theme_Oscurin** is a Visual Studio Code theme designed for developers who prefer a dark, sleek, and modern aesthetic. The colors are carefully selected to provide contrast, reduce eye strain, and maintain focus during long programming sessions.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Theme_Oscurin Preview](./preview.png)
 
-## For more information
+## Characteristics
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- Balanced color palette to reduce eye strain.
+- "Compatible con más de 50 lenguajes de programación."
+- Custom colors for errors, warnings, and information messages
+- Excellent readability on both LCD and OLED monitors
 
-**Enjoy!**
+## Installation
+
+1. Open Visual Studio Code  
+2. Go to the Extensions Marketplace  
+3. Search for: `Theme_Oscurin`  
+4. Click **Install**  
+5. Switch the theme in `Preferences > Color Theme`
+
+## Screenshots
+
+| JavaScript | Python | HTML |
+|------------|--------|------|
+| ![js](./screenshots/js.png) | ![py](./screenshots/python.png) | ![html](./screenshots/html.png) |
+
+---
+
+## Author’s GitHub :)
+
+This theme was created by:
+
+**[github.com/vitadis](https://github.com/vitadis)**
+
+Thanks for downloading this theme, you fine-looking dev 😏
