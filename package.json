@@ -1,7 +1,8 @@
 {
   "name": "theme-oscurin",
-  "displayName": "New Color Theme",
+  "displayName": "theme-oscurin",
   "description": "",
+  "publisher": "Vitadis",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.101.0"
