@@ -1,5 +1,5 @@
 {
-  "name": "Theme_Oscurin",
+  "name": "theme-oscurin",
   "displayName": "New Color Theme",
   "description": "",
   "version": "0.0.1",
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Theme_Oscurin",
+        "label": "Theme Oscurin",
         "uiTheme": "vs-dark",
         "path": "./themes/Theme_Oscurin-color-theme.json"
       }
