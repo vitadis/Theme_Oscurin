@@ -4,7 +4,7 @@
 
 **Theme_Oscurin** is a Visual Studio Code theme designed for developers who prefer a dark, sleek, and modern aesthetic. The colors are carefully selected to provide contrast, reduce eye strain, and maintain focus during long programming sessions.
 
-![Theme_Oscurin Preview](./preview.png)
+![Theme_Oscurin Preview](images/preview.png)
 
 ## Characteristics
 
