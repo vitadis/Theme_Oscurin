@@ -17,5 +17,10 @@
         "path": "./themes/Theme_Oscurin-color-theme.json"
       }
     ]
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/vitadis/Theme_Oscurin.git"
   }
+
 }
