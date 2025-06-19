@@ -9,7 +9,7 @@
 ## Characteristics
 
 - Balanced color palette to reduce eye strain.
-- "Compatible con más de 50 lenguajes de programación."
+- Supports more than 50 programming languages.
 - Custom colors for errors, warnings, and information messages
 - Excellent readability on both LCD and OLED monitors
 
