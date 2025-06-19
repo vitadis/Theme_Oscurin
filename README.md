@@ -25,7 +25,7 @@
 
 | JavaScript | Python | HTML |
 |------------|--------|------|
-| ![js](./screenshots/js.png) | ![py](./screenshots/python.png) | ![html](./screenshots/html.png) |
+| ![js](images/js.png) | ![py](images/python.png) | ![html](images/html.png) |
 
 ---
 
